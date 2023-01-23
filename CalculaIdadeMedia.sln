@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaIdadeMedia", "CalculaIdadeMedia\CalculaIdadeMedia.csproj", "{D5B5B8C1-40A1-480C-82E8-8657E48A374E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B5B8C1-40A1-480C-82E8-8657E48A374E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B5B8C1-40A1-480C-82E8-8657E48A374E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B5B8C1-40A1-480C-82E8-8657E48A374E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B5B8C1-40A1-480C-82E8-8657E48A374E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025C8959-FAB4-42BD-A5C7-D0A0011D739A}
+	EndGlobalSection
+EndGlobal
